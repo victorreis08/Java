@@ -18,7 +18,7 @@ Um timer baseado na técnica Pomodoro desenvolvido em Java para auxiliar na prod
 ## Como executar
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/pomodoro-timer
+   git clone https://github.com/victorreis08/Java
 
 2. Acesse a pasta do projeto:
    cd pomodoro-timer
